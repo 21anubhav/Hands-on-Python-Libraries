@@ -50,8 +50,8 @@ The project focuses on:
 
 ---
 
-## 🚀 How to Run
-1. Clone this repository:
-   ```bash
-   git clone https://github.com/your-username/sugarcane-production-analysis.git
-   cd sugarcane-production-analysis
+## 📢 Results & Insights
+
+**Dataset cleaned and prepared for analysis**
+**Identified top sugarcane-producing countries**
+**Structured foundation for visualization and predictive modeling**
