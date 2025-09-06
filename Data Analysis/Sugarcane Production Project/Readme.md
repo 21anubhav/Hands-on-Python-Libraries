@@ -44,7 +44,7 @@ The project focuses on:
 ---
 
 ## 🛠️ Tech Stack
-- **Language**: Python 🐍  
+- **Language**: Python 
 - **Libraries**: Pandas, NumPy, Matplotlib, Seaborn  
 - **Environment**: Jupyter Notebook  
 
@@ -52,6 +52,6 @@ The project focuses on:
 
 ## 📢 Results & Insights
 
-**Dataset cleaned and prepared for analysis**
-**Identified top sugarcane-producing countries**
-**Structured foundation for visualization and predictive modeling**
+- **Dataset cleaned and prepared for analysis**
+- **Identified top sugarcane-producing countries**
+- **Structured foundation for visualization and predictive modeling**
